@@ -1,9 +1,9 @@
 # Spring Boot with Angular Embedded
-<hr>
+
 <p>Template project to develop Spring Boot applications with views engine in Angular.</p> 
 
 ## Techs
-<hr>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,spring,typescript,html,js,maven,git" />
@@ -11,7 +11,7 @@
 </p>
 
 ## How this project works?
-<hr>
+
 This project deploy a REST Api which provides endpoints. Those endpoints would be called in Angular Services for get data. Services would return that data and will be represented in Angular views.
 
 In this project we got and endpoint named "/message":
@@ -68,7 +68,7 @@ This Angular component invoke a service wich call the previous Spring Boot endpo
 ```
 
 ## How to build this project?
-<hr>
+
 
 This project is built with Maven and contains two profiles:
 
